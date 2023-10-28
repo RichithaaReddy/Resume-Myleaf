@@ -1,0 +1,230 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Author: Vignesh Iyer                                 %
+% MS CSE ASU                                           %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\begin{document}
+
+\introduction[
+    fullname=Richitha Reddy Pisati,
+    email=richithareddie@gmail.com,
+    phone=+91-8886643999,
+    linkedin=linkedin.com/in/richitha-reddy-657b08220/,
+    github=github.com/RichithaaReddy
+]
+
+\summary{IT student with a strong foundation in computer science, poised to pursue a Master's degree, a keen interest in cutting-edge technologies, and a firm command of programming languages. }
+
+\education{
+    \educationItem[
+        university=CVR College of Engineering{,} Ibrahimpatnam,
+        college=Affiliated with JNTUH,
+        graduation=May 2024,
+        grade=7.78 GPA,
+        program=BTech{,} Information Technology,
+        coursework=Web Development and Operating System{,} Data Structures and Algorithms
+    ]
+}
+
+\skills{
+    \skillItem[
+        category=Programming,
+        skills=C{,} Python{,} Java
+    ] \\
+    \skillItem[
+        category=Web Development,
+        skills=MERN Stack{,} NextJS{,} TailwindCSS{,} MongoDB
+    ] \\
+    \skillItem[
+        category=Computer Science Fundamentals,
+        skills=Database Management System{,} Operating System{,} Computer Network
+    ] \\
+}
+
+\begin{workSection}{Professional Experience}
+
+ \experienceItem[
+        company=Telangana Training and Placement Officers Consortium,
+        location=Hyderabad,
+        position=Frontend Developer,
+        duration=Present
+    ]
+     \begin{itemize}
+        \itemsep -6pt {} 
+        \item Developed webpages from scratch as a freelance web developer, utilizing HTML, CSS, and JavaScript.
+        \item Live application is used by all the placement officers in Telangana State for the updates.
+     \end{itemize}
+
+     
+    \experienceItem[
+        company=Prochal Technologies Private Limited,
+        location=Hyderabad,
+        position=Project Intern,
+        duration=Dec 2019 – Present
+    ]
+     \begin{itemize}
+        \itemsep -6pt {} 
+        \item A team of 6 developers, building the entire Version 2 of this startup company.
+        \item Contributing as a Full Stack Developer for constructing resume-Builder and job portal.
+         \item Benefitting 2 colleges that is 1600+ users, our platform streamlines job search and resume creation processes
+     \end{itemize}
+
+     
+    \experienceItem[
+        company=Salesforce,
+        location= Virtual Internship,
+        position=Developer,
+        duration=Oct 2020 – Dec 2020
+    ]
+    \begin{itemize}
+        \itemsep -6pt {} 
+        \item Gained practical knowledge and skills that deepened my understanding of Salesforce Environment.
+        \item Designed 1 website utilizing Salesforce Knowledge as a part of internship
+     \end{itemize}
+     
+\end{workSection}
+
+\begin{workSection}{Academic projects}
+     \customItem[
+        title=PLACIFY - A Placement Preparation Portal,
+        duration=May 2023,
+        keyHighlight=Collaborated in a team of three to develop a website
+     ]
+     
+     \begin{itemize}
+        \vspace{-0.5em}
+        \itemsep -6pt {} 
+        \item A MERN Stack web application.
+        \item For Enhancing student experience by offering Test Patterns and Mock Tests .
+     \end{itemize}
+\end{workSection}
+
+\begin{workSection}{Certificates and Badges}
+
+      \customItem[
+        title= \href{https://tinyurl.com/3mdveysx}{Google Cloud Badges},
+        duration= 2023,
+    keyHighlight= From Google
+     ]
+      \begin{itemize}
+        \vspace{-0.5em}
+        \itemsep -6pt {} 
+        \item
+         Earned badges which includes Google Cloud Computing Foundations, Introduction to Generative AI and Level 3 GenAI: Prompt Engineering
+     \end{itemize}
+
+    \customItem[
+        title= \href{https://developers.google.com/profile/u/102837287062356163156}{Android Studio Badges} ,
+        duration= 2023,
+    keyHighlight= From Google
+     ]
+      \begin{itemize}
+        \vspace{-0.5em}
+        \itemsep -6pt {} 
+        \item Earned several badges for Android Development in Kotlin
+     \end{itemize}
+     
+      \customItem[
+        title=\href{https://www.hackerrank.com/certificates/9bf447c4dfcf}{JavaScript (Basic) Certificate} ,
+        duration=March 2023,
+        keyHighlight= From HackerRank
+     ]
+     
+     \begin{itemize}
+        \vspace{-0.5em}
+        \itemsep -6pt {} 
+        \item successfully cleared JavaScript (basic) 
+     \end{itemize}
+
+\customItem[
+        title= IT Wizard Programming and productivity Curriculum ,
+        duration= 2012 - 2015,
+    keyHighlight= Secured an Excellent grade Organised by NIIT
+     ]
+      \begin{itemize}
+        \vspace{-0.5em}
+        \itemsep -6pt {} 
+        \item \href{https://res.cloudinary.com/dtkvrpdtp/image/upload/v1698507203/NIIT2_dovy62.jpg}{certificate from 2012-2013}
+        \item \href{https://res.cloudinary.com/dtkvrpdtp/image/upload/v1698507196/NIIT1_hpjfxz.jpg}{certificate from 2014-2015}
+     \end{itemize}
+     
+\end{workSection}
+\vspace{0.15em}
+\begin{workSection}{Activities}
+     \customItem[
+        title= IEEE Student Branch - Marketing Lead ,
+        keyHighlight=On Executive Board,
+        duration=Aug 2023 – Present
+    ]
+     \begin{itemize}
+        \vspace{-0.5em}
+        \itemsep -6pt {} 
+        \item IEEE Member
+        \item My efforts resulted in 100's of students attending the technical events.
+        \item By targeted marketing techniques, there has been a significant growth in IEEE membership.
+     \end{itemize}
+      \customItem[
+        title= Literary and Debate Clubt{,} STP Vertical ,
+        keyHighlight=Core Team Member,
+        duration=Aug 2023 – Present
+    ]
+     \begin{itemize}
+        \vspace{-0.5em}
+        \itemsep -6pt {} 
+        \item Dynamic core team member skilled at managing social media campaigns and generating creative ideas
+        \item Conducting several events for students to hone their communication skills and critical thinking abilities.
+     \end{itemize}
+     \customItem[
+        title= \href{https://res.cloudinary.com/dtkvrpdtp/image/upload/v1698507887/cloud_t1gf6r.jpg}{Infinity Cloud Workshop -  IT department },
+        keyHighlight= Participated in a two-day cloud workshop ,
+        duration=Dec 2022
+    ]
+     \begin{itemize}
+        \vspace{-0.5em}
+        \itemsep -6pt {} 
+        \item Acquired practical knowledge of cloud computing and its services during the workshop.
+     \end{itemize}
+\end{workSection}
+\begin{workSection}{Achievements}
+     \experienceItem[
+    company=\href{https://res.cloudinary.com/dtkvrpdtp/image/upload/v1698506905/ldc_pd1i3b.jpg}{Inter College Debate},
+        location= by LDC Club,
+        position=1st Position,
+        duration=March 2023
+    ]
+     \begin{itemize}
+        \vspace{-0.5em}
+        \itemsep -6pt {} 
+        \item Demonstrated effective communication and presentation before 4 colleges.
+     \end{itemize}
+
+     \experienceItem[
+        company=\href{https://res.cloudinary.com/dtkvrpdtp/image/upload/v1698507893/poster_otznzp.jpg}{Poster Presentation},
+        location= by IETE SF and Technolites  ,
+        position=1st Position,
+        duration=Feb 2023
+    ]
+     \begin{itemize}
+        \vspace{-0.5em}
+        \itemsep -6pt {} 
+        \item resonating with a potential audience of 50 while taking first place out of 40 rivals.
+         
+     \end{itemize}
+     
+\end{workSection}
+\begin{workSection}{Publication}
+     \experienceItem[
+        company=MINDCURE: Website to guide your Mental Health using Machine Learning ,
+        position=IJCERT,
+        duration=Sep 2023
+    ]
+     \begin{itemize}
+        \vspace{-0.5em}
+        \itemsep -6pt {} 
+        \item https://www.ijcert.org/index.php/ijcert/article/view/852/762 
+        \item Scope: Multidisciplinary Journal
+     \end{itemize}
+\end{workSection}
+\end{document}
